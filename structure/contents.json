@@ -1,0 +1,20 @@
+{
+    "language_code": "xh",
+    "english_name": "Xhosa",
+    "worksheets": [
+        {
+            "page": "Forgiving_Step_by_Step",
+            "title": "Amanyathelo okuxolela",
+            "filename": "Amanyathelo_okuxolela.html",
+            "version": "1.1",
+            "pdf": "Amanyathelo_okuxolela.pdf"
+        },
+        {
+            "page": "A_Daily_Prayer",
+            "title": "Umthandazo wemini",
+            "filename": "Umthandazo_wemini.html",
+            "version": "1.0",
+            "pdf": "Umthandazo_wemini.pdf"
+        }
+    ]
+}
